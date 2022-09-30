@@ -2,8 +2,17 @@
 For FreeCodeCamp certification. Front End Development Libraries.
 
 
+Deployed:
+
+How to Use: 
+Turn on the sound on your device, make the volume high. 
+On your device keyboard press letters: Q, W, E, A, S, D, Z, X, C. 
+Pretend you are a drummer :) 
+Enjoy! 
 
 
+
+Task:
 Build a Drum Machine
 Objective: Build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/MJyNMd.
 
